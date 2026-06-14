@@ -7,3 +7,4 @@ scikit_learn
 shap
 streamlit
 xgboost
+openpyxl
