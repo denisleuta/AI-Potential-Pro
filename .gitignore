@@ -1,0 +1,3 @@
+*.pkl
+forecast_model/*.pkl
+ovi_radar/*.csv
